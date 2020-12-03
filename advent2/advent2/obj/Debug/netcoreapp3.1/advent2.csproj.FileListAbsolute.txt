@@ -1,0 +1,4 @@
+C:\Users\Jordan\Documents\code projects\advent of code 2020\advent2\advent2\obj\Debug\netcoreapp3.1\advent2.csprojAssemblyReference.cache
+C:\Users\Jordan\Documents\code projects\advent of code 2020\advent2\advent2\obj\Debug\netcoreapp3.1\advent2.AssemblyInfoInputs.cache
+C:\Users\Jordan\Documents\code projects\advent of code 2020\advent2\advent2\obj\Debug\netcoreapp3.1\advent2.AssemblyInfo.cs
+C:\Users\Jordan\Documents\code projects\advent of code 2020\advent2\advent2\obj\Debug\netcoreapp3.1\advent2.csproj.CoreCompileInputs.cache

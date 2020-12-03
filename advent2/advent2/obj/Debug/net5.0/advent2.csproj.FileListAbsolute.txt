@@ -1,0 +1,16 @@
+C:\Users\Jordan\Documents\code projects\advent of code 2020\advent2\advent2\obj\Debug\net5.0\advent2.csprojAssemblyReference.cache
+C:\Users\Jordan\Documents\code projects\advent of code 2020\advent2\advent2\obj\Debug\net5.0\advent2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jordan\Documents\code projects\advent of code 2020\advent2\advent2\obj\Debug\net5.0\advent2.AssemblyInfoInputs.cache
+C:\Users\Jordan\Documents\code projects\advent of code 2020\advent2\advent2\obj\Debug\net5.0\advent2.AssemblyInfo.cs
+C:\Users\Jordan\Documents\code projects\advent of code 2020\advent2\advent2\obj\Debug\net5.0\advent2.csproj.CoreCompileInputs.cache
+C:\Users\Jordan\Documents\code projects\advent of code 2020\advent2\advent2\bin\Debug\net5.0\advent2.exe
+C:\Users\Jordan\Documents\code projects\advent of code 2020\advent2\advent2\bin\Debug\net5.0\advent2.deps.json
+C:\Users\Jordan\Documents\code projects\advent of code 2020\advent2\advent2\bin\Debug\net5.0\advent2.runtimeconfig.json
+C:\Users\Jordan\Documents\code projects\advent of code 2020\advent2\advent2\bin\Debug\net5.0\advent2.runtimeconfig.dev.json
+C:\Users\Jordan\Documents\code projects\advent of code 2020\advent2\advent2\bin\Debug\net5.0\advent2.dll
+C:\Users\Jordan\Documents\code projects\advent of code 2020\advent2\advent2\bin\Debug\net5.0\ref\advent2.dll
+C:\Users\Jordan\Documents\code projects\advent of code 2020\advent2\advent2\bin\Debug\net5.0\advent2.pdb
+C:\Users\Jordan\Documents\code projects\advent of code 2020\advent2\advent2\obj\Debug\net5.0\advent2.dll
+C:\Users\Jordan\Documents\code projects\advent of code 2020\advent2\advent2\obj\Debug\net5.0\ref\advent2.dll
+C:\Users\Jordan\Documents\code projects\advent of code 2020\advent2\advent2\obj\Debug\net5.0\advent2.pdb
+C:\Users\Jordan\Documents\code projects\advent of code 2020\advent2\advent2\obj\Debug\net5.0\advent2.genruntimeconfig.cache
